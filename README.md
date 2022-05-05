@@ -1,10 +1,11 @@
 ![](https://pbs.twimg.com/profile_images/828490798480052225/Sp0fIxul_200x200.jpg)
-#RethinkDB
+# RethinkDB
 
 [Official page](https://rethinkdb.com/ "Official page")
+<br>
 [Docs](https://rethinkdb.com/docs "Docs")
 
-##What is RethinkDB?
+## What is RethinkDB?
 - Open-source database for building realtime web applications
 - NoSQL database that stores schemaless JSON documents
 - Distributed database that is easy to scale
