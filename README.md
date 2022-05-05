@@ -20,6 +20,25 @@ RethinkDB is the first open-source scalable database built for realtime applicat
 - Streaming analytics
 - Connected devices
 
+### Supported languages
+
+#### Official drivers
+* [**JavaScript**](https://rethinkdb.com/docs/guide/javascript/)
+* [**Python**](https://rethinkdb.com/docs/guide/python/)
+* [**Ruby**](https://rethinkdb.com/docs/guide/ruby/)
+* [**Java**](https://rethinkdb.com/docs/guide/java/)
+
+#### Third-party drivers
+* **C#/.NET:** [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver), [rethinkdb-net](https://github.com/mfenniak/rethinkdb-net)
+* **C++:** [librethinkdbxx](https://github.com/AtnNn/librethinkdbxx)
+* **Clojure:** [clj-rethinkdb](https://github.com/apa512/clj-rethinkdb)
+* **Elixir:** [rethinkdb-elixir](https://github.com/rethinkdb/rethinkdb-elixir)
+* **Go:** [GoRethink](https://github.com/dancannon/gorethink)
+* **Haskell:** [haskell-rethinkdb](https://github.com/atnnn/haskell-rethinkdb)
+* **PHP:** [php-rethink-ql](https://github.com/tbolier/php-rethink-ql)
+* **Rust:** [reql](https://github.com/rust-rethinkdb/reql)
+* **Scala:** [rethink-scala](https://github.com/kclay/rethink-scala)
+
 ## Installation with docker
 
 #### Pre-requirements
