@@ -31,3 +31,5 @@ RethinkDB is the first open-source scalable database built for realtime applicat
 3. Run `docker-compose up -d`
 
 After that, you can go to the administration console at http://localhost:8080/
+
+[Usage cheat sheet](https://gist.github.com/bradtraversy/6aef077f93c48465891f12958b84a22d "Usage cheat sheet")
